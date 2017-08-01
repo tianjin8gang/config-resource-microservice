@@ -1,5 +1,5 @@
 spring:
-  base: basedev 
+  base: basedev-re 
   datasource: 
     driver-class-name: com.mysql.jdbc.Driver1
     url: jdbc:mysql://localhost:3306/test
